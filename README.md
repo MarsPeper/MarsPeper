@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Full Stack Development
 - 💞️ I’m looking to collaborate on anything Computer Science related
 - 📫 How to reach me nguypham@oregonstate.edu
-- Some more project here https://github.com/GhostP3per
+- Some more projects here https://github.com/GhostP3per
 
 <!---
 MarsPeper/MarsPeper is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
