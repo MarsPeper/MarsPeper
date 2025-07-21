@@ -2,7 +2,7 @@
 - 👀 I’m interested in getting a job as a Software Engineer
 - 🌱 I’m currently learning Full Stack Development
 - 💞️ I’m looking to collaborate on anything Computer Science related
-- 📫 How to reach me nguypham@oregonstate.edu
+- 📫 How to reach me locdevx@gmail.com
 - Some more projects here https://github.com/GhostP3per
 
 <!---
